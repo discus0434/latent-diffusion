@@ -10,6 +10,7 @@ dependencies:
   - torchvision=0.8.1
   - numpy=1.19.2
   - pip:
+    - torchmetrics==0.6.0
     - albumentations==0.4.3
     - opencv-python==4.1.2.30
     - pudb==2019.2
